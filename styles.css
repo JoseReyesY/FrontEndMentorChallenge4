@@ -40,7 +40,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url('./images/image-equilibrium.jpg');
+    background-image: url('images/image-equilibrium.jpg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -107,11 +107,11 @@ body {
 }
 
 .price-coin {
-    background-image: url('./images/icon-ethereum.svg');
+    background-image: url('images/icon-ethereum.svg');
 }
 
 .clock {
-    background-image: url('./images/icon-clock.svg');
+    background-image: url('images/icon-clock.svg');
 }
 
 .date {
